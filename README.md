@@ -1,6 +1,6 @@
 # Ashley's cute calculator
 
-This is a simple calculator with simple functionalities.
+This is a calculator with simple functionalities.
 
 ## Technologies used
 
