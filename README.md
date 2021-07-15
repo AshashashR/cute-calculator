@@ -1,1 +1,1 @@
-# cute-calculator
+# new-calculator
